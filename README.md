@@ -8,7 +8,7 @@ This directory contains source code for the paper "Regularized and Smooth Double
 
  1- Requirement
  
-The algorithms have been implemented in MATLAB and make extensive use of the Tensor Toolbox for MATLAB. You can find the latest version at https://www.tensortoolbox.org/
+The algorithms have been implemented in MATLAB and make extensive use of the Tensor Toolbox for MATLAB. You can find the latest version at https://www.tensortoolbox.org/ .
 
 
 2- Setup
