@@ -6,6 +6,6 @@ cd tensor_toolbox-master/;
 addpath(genpath(pwd));
 cd ..;
 
-cd DCOT-main/;
+cd DCOT-master/;
 addpath(genpath(pwd));
 cd ..;
