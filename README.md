@@ -15,7 +15,7 @@ The algorithms have been implemented in MATLAB and make extensive use of the Ten
 
 Run run_me_first_to_add_libs_.m for path configurations.
 
-Please make sure that Tensor Toolbox and DCOT-master can be seen from MATLAB (i.e. make sure to run addpath on their paths).
+Please make sure that **tensor_toolbox-master** and *DCOT-master* can be seen from MATLAB (i.e. make sure to run addpath on their paths).
 
 
 3- Simplest usage example
