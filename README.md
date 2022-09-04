@@ -20,4 +20,4 @@ Please make sure that **tensor_toolbox-master** and **DCOT-master** can be seen 
 
 3- Simplest usage example
 
-Execute demo.m for the simplest demonstration of this package. This is the case of CMU face recovery problem.
+Execute demo.m for the simplest demonstration of this package. This is the case of 4D CMU Faces recovery problem.
